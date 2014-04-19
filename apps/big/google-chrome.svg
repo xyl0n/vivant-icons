@@ -16,11 +16,45 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="google-chrome.svg"
-   inkscape:export-filename="/home/xylon/.icons/Smooth/apps/big/google-chrome.png"
+   inkscape:export-filename="/home/xylon/.icons/Vivant/apps/big/google-chrome.png"
    inkscape:export-xdpi="960"
    inkscape:export-ydpi="960">
   <defs
      id="defs4232">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4441">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.17766498"
+         offset="0"
+         id="stop4443" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4445" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4433">
+      <stop
+         style="stop-color:#89dc33;stop-opacity:1"
+         offset="0"
+         id="stop4435" />
+      <stop
+         style="stop-color:#61a11c;stop-opacity:1"
+         offset="1"
+         id="stop4437" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4427">
+      <stop
+         id="stop4429"
+         offset="0"
+         style="stop-color:#db4c35;stop-opacity:1" />
+      <stop
+         id="stop4431"
+         offset="1"
+         style="stop-color:#d53426;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient3879">
@@ -308,7 +342,7 @@
        r="7.5" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient36463-1"
+       xlink:href="#linearGradient4427"
        id="radialGradient3066"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.67001738,0.69921634,-0.73395334,-0.70323661,39.906049,987.69548)"
@@ -330,7 +364,7 @@
        r="21.000032" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient28694-4"
+       xlink:href="#linearGradient4433"
        id="radialGradient3070"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-1.1203835,0.4880735,-0.440727,-1.011602,28.925385,1037.3056)"
@@ -369,18 +403,6 @@
        r="10"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(-0.90369736,0.89929574,-1.1245701,-1.1300743,1198.6934,2162.8834)" />
-    <filter
-       inkscape:collect="always"
-       id="filter3842"
-       x="-0.18"
-       width="1.36"
-       y="-0.18"
-       height="1.36">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.4063793"
-         id="feGaussianBlur3844" />
-    </filter>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3873">
@@ -433,6 +455,15 @@
        fx="22.560404"
        fy="1026.5776"
        r="10" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4441"
+       id="linearGradient4447"
+       x1="22.915825"
+       y1="3.6233482"
+       x2="22.915825"
+       y2="9.4209051"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -441,9 +472,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9062155"
-     inkscape:cx="32.039791"
-     inkscape:cy="6.0561068"
+     inkscape:zoom="6.9384365"
+     inkscape:cx="36.500292"
+     inkscape:cy="19.375747"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -546,7 +577,9 @@
        x="14"
        y="1018.3622"
        ry="10"
-       rx="10" />
+       rx="10"
+       inkscape:export-xdpi="960"
+       inkscape:export-ydpi="960" />
     <rect
        ry="7.8570952"
        y="1020.5051"
@@ -564,5 +597,12 @@
        y="1020.5051"
        ry="7.8570952"
        clip-path="url(#clipPath3873)" />
+    <path
+       style="fill:url(#linearGradient4447);fill-opacity:1;stroke:none"
+       d="M 6.485611,10.887893 C 16.726998,1.0593279 29.256072,-1.4509666 41.507911,10.959955 39.101907,7.5059134 38.04586,6.6206208 34.109795,4.4840933 26.536273,0.37312471 17.020295,1.8558736 11.416722,6.033897 9.603575,7.3857789 7.8170553,8.8612747 6.485611,10.887893 z"
+       id="path4439"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1004.3622)"
+       sodipodi:nodetypes="ccssc" />
   </g>
 </svg>
